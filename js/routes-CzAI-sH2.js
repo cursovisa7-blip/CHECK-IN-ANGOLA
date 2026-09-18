@@ -5,8 +5,8 @@
 // de cada bilhete abaixo com os IDs reais da tua plataforma.
 // ============================================================
 
-import{i as e,n as t,r as n,t as r}from"./index-DLeEhvFr.js";
-var i=e(n()),a=t();
+import * as i from "https://esm.sh/react@19.2.0";
+import * as a from "https://esm.sh/react@19.2.0/jsx-runtime";
 
 // ── Configuração de bilhetes ──────────────────────────────────
 // productId = UUID real de cada produto na plataforma interna
@@ -293,7 +293,7 @@ export function c() {
                   (0, a.jsx)("figure", {
                     className: "overflow-hidden rounded-2xl border border-border bg-card shadow-sm",
                     children: (0, a.jsx)("img", {
-                      src: r,
+                      src: "images/3c35d87f3165.webp",
                       alt: "Cartaz do Grande Show Anderson Mário",
                       className: "w-full object-cover",
                       loading: "eager",
